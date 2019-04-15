@@ -1,0 +1,19 @@
+{
+  "name": "tfjs-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^1.0.0",
+    "@tensorflow/tfjs": "^1.0.4",
+    "@tensorflow/tfjs-node": "^1.0.3",
+    "@tensorflow/tfjs-node-gpu": "^1.0.3",
+    "canvas": "^2.4.1"
+  }
+}
